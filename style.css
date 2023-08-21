@@ -445,7 +445,7 @@ margin-bottom: 3vmin;
     transform-origin: center center;
 }
 
-@keyframes floatingAndRotating {
+@keyframes floatingAndrotating {
     0%, 100% {
       transform: translateY(0) rotateZ(0deg) ; 
     }
